@@ -2,7 +2,7 @@
 
 Aqui veuras les diferents tasques del projecte:
 
-- [Tasca02](Tasca02)
+- [Tasca02-Selecció d’un SAI](Tasca02)
 - [Tasca03](Tasca03)
 - [Tasca08](Tasca08)
  
