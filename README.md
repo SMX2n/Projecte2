@@ -5,7 +5,7 @@ Aqui veuras les diferents tasques del projecte:
 - [Tasca02-Selecció d’un SAI](Tasca02)
 - [Tasca03-recuperant accés a sistemes](Tasca03)
 - [Tasca08-Assessorament de domini i hosting](Tasca08)
-- [Tasca11](Tasca11)
+- [Tasca11-Instal·lació de WordPress en local amb WP Local](Tasca11)
  
 
 ## DESCRIPCIÓ DEL PROJECTE
